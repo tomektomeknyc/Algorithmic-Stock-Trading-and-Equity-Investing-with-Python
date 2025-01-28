@@ -6,4 +6,5 @@ pandas
 ridgeplot
 jupyter
 matplotlib
-
+yfinance
+ib_insync
