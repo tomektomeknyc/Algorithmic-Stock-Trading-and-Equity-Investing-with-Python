@@ -18,3 +18,5 @@ tqdm
 pandas
 yfinance
 ib_insync
+openpyxl
+
